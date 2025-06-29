@@ -45,4 +45,25 @@ Represents interactive elements and how they respond to user input.
 
 Wireframes are essential tools during early design and development phases, ensuring clarity, collaboration, and efficiency.
 ### Types of Wireframes
- Low-fidelity                                                     | High-fidelity wireframes
+| Low-fidelity                                                     | High-fidelity wireframes
+-Definition: Basic sketches or block diagrams,                     |                                           
+-Purpose: Focus on layout, navigation,                             |
+ aand core functionality—not visual design.                        |
+### Charcteristics:                                                |
+-Minimal details (e.g., grey boxes instead of images)              |
+-Placeholder text ("Lorem Ipsum")                                  |
+-No color or branding                                              |
+-When Used: Early in the design process to brainstorm ideas,
+ get quick feedback, or align on layout and user flow.
+
+
+                                                                   |Purpose: Show visual styling, accurate spacing, real content, and even interactive behavior.
+
+                                                                     |Characteristics:
+
+                                                                    |Includes actual text, images, fonts, and color schemes
+                                                                    |Mimics final UI structure and behavior
+                                                                    |When Used: Later in the design phase, often before handoff to developers or for stakeholder presentation.
+
+                                            
+
