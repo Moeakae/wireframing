@@ -44,3 +44,5 @@ Represents interactive elements and how they respond to user input.
 ---
 
 Wireframes are essential tools during early design and development phases, ensuring clarity, collaboration, and efficiency.
+### Types of Wireframes
+ Low-fidelity                                                     | High-fidelity wireframes
